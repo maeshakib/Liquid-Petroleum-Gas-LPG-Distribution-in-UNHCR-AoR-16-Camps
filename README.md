@@ -5,9 +5,21 @@
 
 - LPG distribution centres are set up in the camps with a monthly coverage of over 7,000 households per centre. The suppliers are responsible for delivering the LPG cylinders to the distribution centres, where refugees will return empty cylinders in exchange for a new one. 
 - All refugee households in the camps receive LPG from UNHCR. The allocation of LPG is based on the household size as per UNHCR’s registration database. As such, refugees with different household sizes have different refilling cycles to ensure adequate and fair provision of cooking fuel
+## Tool we used for distribution: 
+- Global Distribution Tool (GDT)
+- SQL Server
+- Excel
+- SSRS report
 
+## Statistics and report we support for distribution: 
+- Mid-Year Implementation Monitoring and Review Indicators: This indicator describes the achievements in LPG distribution within the UNHCR Area of Responsibility (AoR) across 16 camps against the set targets.
+ - Total number of people who received LPG and Pressure cooker.
+ - Proportion of refugees received LPG and pressure cooker against the set target.
+- Monthly LPG distribution summary report.
+- Monthly/Yearly LPG refill projection statistics.
+- Yearly LPG New Stove Set Forecasting Based on Population Changes.
+- Planning figures for pressure cooker distribution.
 
-Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Directorate General of Health Services (DGHS), in partnership with WHO, UNHCR, UNICEF, and other organizations, we successfully vaccinated **88%** (379,320) of the Rohingya population above 18 years of age between August 2021 and September 2022 with **22 vaccination campaigns**.
 
 ## Diphtheria Vaccination majors campaign timeline
 <img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/diphteria_campaign_timeline.png" /> 
@@ -18,12 +30,7 @@ Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Di
 <img  alt="Diphtheria vacciantion Summary"  src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/vaccination_summary.png" />
 <br/>
 
- C:\Users\SHAKIBM\OneDrive - UNHCR\Documents\Vaccine 2nd dose dashboard\all vaccine records dashboard
-## Tool we used for distribution: 
-- Global Distribution Tool (GDT)
-- SQL Server
-- Excel
-- SSRS report
+ 
 
 
 ## Key contributions:
