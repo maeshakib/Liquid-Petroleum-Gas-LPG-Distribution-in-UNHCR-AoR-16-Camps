@@ -21,16 +21,9 @@
 - Planning figures for pressure cooker distribution.
 
 
-## Diphtheria Vaccination majors campaign timeline
-<img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/diphteria_campaign_timeline.png" /> 
+## LPG distribution summary
+<img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Liquid-Petroleum-Gas-LPG-Distribution-in-UNHCR-AoR-16-Camps/blob/main/LPG%20distribution%20summary.png" /> 
 <br/>
-
-
-## Diphtheria Vaccination doses summary
-<img  alt="Diphtheria vacciantion Summary"  src="https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar/blob/main/vaccination_summary.png" />
-<br/>
-
- 
 
 
 ## Key contributions:
