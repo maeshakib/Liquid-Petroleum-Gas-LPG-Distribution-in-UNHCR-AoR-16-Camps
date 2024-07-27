@@ -21,7 +21,7 @@
 - Planning figures for pressure cooker distribution.
 
 
-## LPG distribution summary
+## LPG distribution summary in 2023
 <img align="left" alt="Diphtheria vacciantion timeline" width="1000px" src="https://github.com/maeshakib/Liquid-Petroleum-Gas-LPG-Distribution-in-UNHCR-AoR-16-Camps/blob/main/LPG%20distribution%20summary.png" /> 
 <br/>
 
